@@ -124,5 +124,8 @@ public class MoveWords{
 	*Sobreescribimos el método checkWinner, ya que el algoritmo que utiliza, al cambiar el tamaño del array validMoves no funciona, 
 	*por lo que no podemos extenderlo a tamaño 5, es necesario describir otro funcionamiento para el método.
 	*/
+    
+    
+   
 	
 } 
